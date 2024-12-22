@@ -38,8 +38,7 @@
     padding: 1rem;
     color: white;
    }
-   /* สํ
-าหรับแท็บเล็ต */
+   /* สําหรับแท็บเล็ต */
 @media (max-width: 768px) {
     .grid-container {
     grid-template-areas:
@@ -50,8 +49,7 @@
     grid-template-columns: 1fr 200px;
     }
    }
-   /* สํ
-าหรับมือถือ */
+   /* สําหรับมือถือ */
    @media (max-width: 480px) {
     .grid-container {
     grid-template-areas:
